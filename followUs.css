@@ -1,0 +1,23 @@
+body {
+    background-color: beige;
+}
+
+.TituloSiguenos {
+    color:blue;
+    text-align: center;
+}
+
+.twitterlink{
+    color: darkcyan;
+    text-align: center;
+}
+
+.youtubelink {
+    color: darkcyan;
+    text-align: center;
+}
+
+.facebooklink{
+    color: darkcyan;
+    text-align: center;
+}
