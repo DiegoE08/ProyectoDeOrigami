@@ -1,0 +1,38 @@
+body {
+  background-color: beige;
+}
+canvas {
+  display: block;
+}
+
+.TituloIndex {
+  color: blue;
+  text-align: center;
+
+}
+
+.Nosotros {
+  color: darkcyan;
+  text-align: center;
+}
+
+.Siguenos {
+  text-align: center;
+  color: darkcyan;
+}
+
+.camel {
+  text-align: center;
+}
+
+.pigeon {
+  text-align: center;
+}
+
+p {
+  color: black;
+}
+
+li {
+  color: darkblue;
+}
